@@ -1,3 +1,3 @@
-# MY RESUME
+# MY RESUME LIVE
 
-[Live Link](https://balennouri.github.io/resume-project-balen-nouri/)
+[Live Link](https://github.com/baselhn-cmd)
